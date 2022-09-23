@@ -2,7 +2,7 @@
 - 💻 I love coding in Java, Spring Boot and Angular
 - 📚 I continuously learn software technologies
 - 🧑‍🤝‍🧑 I’m looking to collaborate on creating cloud-based apps
-- 📧 How to reach me: thomascruzana@gmail.com
+- 📧 How to reach me: tomcruzana@ymail.com
 
 <!---
 tomcruzana/tomcruzana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
