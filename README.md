@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Tom, and these are my personal side projects. 🤓
 - 💻 Coding in Java, Spring Boot, and Angular brings me great joy and enthusiasm.
-- 🔭 I am currently working on developing virtual items for metaverses, as well as applications using Microservices architecture.
+- 🔭 I am currently working on developing web applications, as well as virtual items for metaverses.
 - 📝 I do love sharing my thoughts and experiences with fellow developers through my [blog posts.](https://dev.to/tommyc)
 
 <hr>
