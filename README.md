@@ -1,11 +1,12 @@
 - 👋 Hello! My name is Tom, and these are my personal side projects. 🤓
-- 💻 Coding in Java, Spring Boot, and Angular brings me great joy and enthusiasm.
-- 🔭 I am currently working on developing web applications, as well as virtual items for metaverses.
+- 💻 Coding in PHP, Java, Spring Boot, and Angular brings me great joy and enthusiasm.
+- 🔭 I am currently working on developing web applications, websites and virtual items for metaverses.
 - 📝 I do love sharing my thoughts and experiences with fellow developers through my [blog posts.](https://dev.to/tommyc)
 
 <hr>
 <p align="left"> 
-          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+          <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
           <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
           <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
           <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
