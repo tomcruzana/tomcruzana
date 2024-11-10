@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Tom, and I'm a software developer. I primarily code in Java, Spring Boot, and React.
 - 🔭 I develop web and mobile applications for various clients, building solutions that meet their unique needs.
-- 📝 I love sharing my thoughts with fellow devs through my [blog posts.](https://dev.to/tommyc)
+- 📝 I love sharing some of my learnings with fellow devs through my [blog posts.](https://dev.to/tommyc)
 
 ## Tech Stack 🚀
 
