@@ -1,7 +1,12 @@
 - 👋 Hello! My name is Tom, and these are my personal side projects. 🤓
-- 💻 Coding in PHP, Java, Spring Boot, and Angular brings me great joy and enthusiasm.
 - 🔭 I am currently working on developing web applications, websites and virtual items for metaverses.
 - 📝 I do love sharing my thoughts and experiences with fellow developers through my [blog posts.](https://dev.to/tommyc)
+
+**Tech Stack 🚀**
+**Backend:**
+Java, Spring Boot, Firebase
+**Frontend:**
+React, React Native, Angular
 
 <hr>
 <p align="left"> 
