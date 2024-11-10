@@ -1,12 +1,19 @@
 - 👋 Hello! My name is Tom, and these are my personal side projects. 🤓
 - 🔭 I am currently working on developing web applications, websites and virtual items for metaverses.
 - 📝 I do love sharing my thoughts and experiences with fellow developers through my [blog posts.](https://dev.to/tommyc)
- <br />
-**Tech Stack 🚀** <br />
-**Backend:** <br />
-- Java, Spring Boot, Firebase  <br />
-**Frontend:** <br />
-- React, React Native, Angular  <br />
+
+## Tech Stack 🚀
+
+**Backend:**  
+- Java  
+- Spring Boot  
+- Firebase  
+
+**Frontend:**  
+- React  
+- React Native  
+- Angular  
+
 
 <hr>
 <p align="left"> 
