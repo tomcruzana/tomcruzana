@@ -4,9 +4,9 @@
 
 **Tech Stack 🚀**
 **Backend:**
-Java, Spring Boot, Firebase
+- Java, Spring Boot, Firebase
 **Frontend:**
-React, React Native, Angular
+- React, React Native, Angular
 
 <hr>
 <p align="left"> 
