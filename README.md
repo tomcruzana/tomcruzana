@@ -11,8 +11,7 @@
 
 **Frontend:**  
 - React  
-- React Native  
-- Angular  
+- React Native
 
 
 <hr>
