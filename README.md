@@ -20,9 +20,11 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
    </a>
-   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+  <img src="https://worldvectorlogo.com/download/spring-boot-1.svg" alt="spring boot" width="40" height="40"/> 
+</a>
+   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="mariadb" width="40" height="40"/> </a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
    </a>
-   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="mariadb" width="40" height="40"/> </a>
 </p>
