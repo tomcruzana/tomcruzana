@@ -21,7 +21,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
    </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-  <img src="https://pouch.jumpshare.com/preview/m4ZOG9oaaagqk8bxankPaUSJGeRV05_gXgYglSO9LwrvE6el3flpxje1MT9PIKj5RatSGtWUb5C41iRpsDklbfGtoORgSrTUeLM-VtYAFvo" alt="spring boot" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
 </a>
    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="mariadb" width="40" height="40"/> </a>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
