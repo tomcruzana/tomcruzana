@@ -4,8 +4,9 @@
 
 ## Tech Stack 🚀
 
-- **Backend**: Java, Spring Boot, MongoDB
+- **Backend**: Java, Spring Boot
 - **Frontend**: React, React Native
+- **Database**: SQL, MongoDB
 
 ## Tools & DevOps 🔧
 - **Testing & Automation**: JUnit, Selenium, Mockito, Jest
