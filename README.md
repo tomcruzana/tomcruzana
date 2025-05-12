@@ -13,6 +13,18 @@
 - React  
 - React Native
 
+## Tools & DevOps 🔧
+- **Testing & Automation**: JUnit, Selenium, Mockito, Jest
+- **CI/CD**: Git, GitHub, Jenkins
+- **Build & Dependency Management**: Maven, Gradle
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **API Testing & Documentation**: Postman, Swagger
+- **Logging & Monitoring**: ELK Stack, Zipkin, Spring Sleuth, Spring Actuator
+- **Cloud Services**: AWS
+- **Code Quality & Security**: SonarQube
+- **AI & ML**: Spring AI
+- **Event Streaming**: Apache Kafka
+- **Operating Systems**: Linux, Windows
 
 <hr>
 <p align="left"> 
