@@ -4,14 +4,8 @@
 
 ## Tech Stack 🚀
 
-**Backend:**  
-- Java  
-- Spring Boot  
-- Firebase  
-
-**Frontend:**  
-- React  
-- React Native
+- **Backend**: Java, Spring Boot, MongoDB
+- **Frontend**: React, React Native
 
 ## Tools & DevOps 🔧
 - **Testing & Automation**: JUnit, Selenium, Mockito, Jest
@@ -36,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
 </a>
    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="mariadb" width="40" height="40"/> </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-   </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</a>
 </p>
