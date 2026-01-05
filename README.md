@@ -4,8 +4,8 @@
 
 ## Tech Stack 🚀
 
-- **Backend**: Java, Spring Boot
-- **Frontend**: React, React Native
+- **Backend**: Java, PHP, Spring Boot
+- **Frontend**: HTML, CSS, JavaScript, React
 - **Database**: SQL, MongoDB
 
 ## Tools & DevOps 🔧
