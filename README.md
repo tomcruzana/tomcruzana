@@ -22,29 +22,31 @@
 - **Operating Systems**: Linux, Windows
 
 <hr>
+
 <p align="left"> 
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-   </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
 
-   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
-   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
 
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-   </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
+  </a>
 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-   </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
+  </a>
 
-   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="mariadb" width="40" height="40"/> 
-   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
 </p>
+
 
