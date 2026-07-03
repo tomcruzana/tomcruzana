@@ -11,8 +11,10 @@ I'm a **Full-Stack App Developer** with an M.Sc. in Information Technology.
 
 * **Backend**: PHP, Laravel
 * **Frontend**: React, Tailwind, Bootstrap
-* **Date & Storage**: Redis, MySQL, PostgresSQL
+* **Data & Storage**: Redis, MySQL, PostgresSQL
 * **Testing**: PHPunit, Jest, Pest
+* **Authentication & Security**: Laravel Sanctum, JWT, OAuth 2
+* **Cloud & Deployment**: AWS, Digital Ocean, Docker
 
 <hr>
 
