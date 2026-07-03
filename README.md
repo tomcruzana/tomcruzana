@@ -4,7 +4,7 @@ I'm a **Full-Stack Developer** with an M.Sc. in Information Technology.
 
 I build clean, scalable SaaS products with Laravel and ReactJS.
 
-* 💻 I focus on building practical SaaS products.
+* 💻 I build practical, scalable SaaS products that solve real-world problems.
 * 🚀 My main stack is **Laravel, ReactJS, PHP, JavaScript, and MySQL**.
 * 🧩 I care about clean code, maintainable architecture, and useful software.
 * 📝 I share some of my development learnings through my [blog posts](https://dev.to/tommyc).
@@ -14,7 +14,6 @@ I build clean, scalable SaaS products with Laravel and ReactJS.
 * **Backend**: PHP, Laravel
 * **Frontend**: HTML5, CSS3, JavaScript, ReactJS
 * **Database**: MySQL, MariaDB
-* **API Development**: REST APIs, Postman
 
 <hr>
 
@@ -37,9 +36,5 @@ I build clean, scalable SaaS products with Laravel and ReactJS.
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
   </a>
 </p>
