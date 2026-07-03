@@ -10,8 +10,9 @@ I'm a **Full-Stack App Developer** with an M.Sc. in Information Technology.
 ## Tech Stack 🚀
 
 * **Backend**: PHP, Laravel
-* **Frontend**: HTML5, CSS3, JavaScript, ReactJS
-* **Database**: MySQL, MariaDB
+* **Frontend**: React, Tailwind, Bootstrap
+* **Date & Storage**: Redis, MySQL, PostgresSQL
+* **Testing**: PHPunit, Jest, Pest
 
 <hr>
 
