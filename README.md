@@ -1,11 +1,9 @@
 # Hi, I'm Tom 👋
 
-I'm a **Full-Stack Developer** with an M.Sc. in Information Technology.
-
-I build clean, scalable SaaS products with Laravel and ReactJS.
+I'm a **Full-Stack App Developer** with an M.Sc. in Information Technology.
 
 * 💻 I build practical, scalable SaaS products that solve real-world problems.
-* 🚀 My main stack is **Laravel, ReactJS, PHP, JavaScript, and MySQL**.
+* 🚀 My main stack is **Laravel, React, and MySQL**.
 * 🧩 I care about clean code, maintainable architecture, and useful software.
 * 📝 I share some of my development learnings through my [blog posts](https://dev.to/tommyc).
 
