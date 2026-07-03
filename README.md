@@ -1,52 +1,45 @@
-- 👋 My name is Tom, and I'm a software developer with an M.Sc. in Information Technology. I primarily code in Java, Spring Boot, and React.
-- 💻 I develop web and mobile applications for various clients, building solutions that meet their unique needs.
-- 📝 I love sharing some of my learnings with fellow devs through my [blog posts.](https://dev.to/tommyc)
+# Hi, I'm Tom 👋
+
+I'm a **Full-Stack Developer** with an M.Sc. in Information Technology.
+
+I build clean, scalable SaaS products with Laravel and ReactJS.
+
+* 💻 I focus on building practical SaaS products.
+* 🚀 My main stack is **Laravel, ReactJS, PHP, JavaScript, and MySQL**.
+* 🧩 I care about clean code, maintainable architecture, and useful software.
+* 📝 I share some of my development learnings through my [blog posts](https://dev.to/tommyc).
 
 ## Tech Stack 🚀
 
-- **Backend**: Java, PHP, Spring Boot
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Database**: SQL, MongoDB
-
-## Tools & DevOps 🔧
-- **Testing & Automation**: JUnit, Selenium, Mockito, Jest
-- **CI/CD**: Git, GitHub, Jenkins
-- **Build & Dependency Management**: Maven, Gradle
-- **Containerization & Orchestration**: Docker, Kubernetes
-- **API Testing & Documentation**: Postman, Swagger
-- **Logging & Monitoring**: ELK Stack, Zipkin, Spring Sleuth, Spring Actuator
-- **Cloud Services**: AWS
-- **Code Quality & Security**: SonarQube
-- **AI & ML**: Spring AI
-- **Event Streaming**: Apache Kafka
-- **Operating Systems**: Linux, Windows
+* **Backend**: PHP, Laravel
+* **Frontend**: HTML5, CSS3, JavaScript, ReactJS
+* **Database**: MySQL, MariaDB
+* **API Development**: REST APIs, Postman
 
 <hr>
 
 <p align="left"> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
+  </a>
 </p>
-
-
