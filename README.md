@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  I'm a <strong>Full-Stack App Developer</strong> with an M.Sc. in Information Technology.
+  I'm a <strong>Full-Stack Software Engineer</strong> with an M.Sc. in Information Technology.
 </p>
 
 <ul>
@@ -30,7 +30,15 @@
   </li>
 </ul>
 
-<h2>Tech Stack 🚀</h2>
+<h2>
+  Tech Stack
+  <img
+    src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif"
+    alt="🚀"
+    width="32"
+    height="32"
+  />
+</h2>
 
 <ul>
   <li><strong>Backend:</strong> PHP, Laravel</li>
