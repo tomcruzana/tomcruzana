@@ -1,4 +1,12 @@
-# Hi, I'm Tom 👋
+<h1>
+  Hi, I'm Tom
+  <img
+    src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif"
+    alt="💻"
+    width="32"
+    height="32"
+  />
+</h1>
 
 <p align="center">
   <img
@@ -8,21 +16,30 @@
   />
 </p>
 
-I'm a **Full-Stack App Developer** with an M.Sc. in Information Technology.
+<p>
+  I'm a <strong>Full-Stack App Developer</strong> with an M.Sc. in Information Technology.
+</p>
 
-- 💻 I build practical, scalable SaaS products that solve real-world problems.
-- 🚀 My main stack is **Laravel, React, and MySQL**.
-- 🧩 I care about clean code, maintainable architecture, and useful software.
-- 📝 I share some of my development learnings through my [blog posts](https://dev.to/tommyc).
+<ul>
+  <li>💻 I build practical, scalable SaaS products that solve real-world problems.</li>
+  <li>🚀 My main stack is <strong>Laravel, React, and MySQL</strong>.</li>
+  <li>🧩 I care about clean code, maintainable architecture, and useful software.</li>
+  <li>
+    📝 I share some of my development learnings through my
+    <a href="https://dev.to/tommyc">blog posts</a>.
+  </li>
+</ul>
 
-## Tech Stack 🚀
+<h2>Tech Stack 🚀</h2>
 
-- **Backend:** PHP, Laravel
-- **Frontend:** React, Tailwind CSS, Bootstrap
-- **Data & Storage:** Redis, MySQL, PostgreSQL
-- **Testing:** PHPUnit, Jest, Pest
-- **Authentication & Security:** Laravel Sanctum, JWT, OAuth 2.0
-- **Cloud & Deployment:** AWS, DigitalOcean, Docker
+<ul>
+  <li><strong>Backend:</strong> PHP, Laravel</li>
+  <li><strong>Frontend:</strong> React, Tailwind CSS, Bootstrap</li>
+  <li><strong>Data &amp; Storage:</strong> Redis, MySQL, PostgreSQL</li>
+  <li><strong>Testing:</strong> PHPUnit, Jest, Pest</li>
+  <li><strong>Authentication &amp; Security:</strong> Laravel Sanctum, JWT, OAuth 2.0</li>
+  <li><strong>Cloud &amp; Deployment:</strong> AWS, DigitalOcean, Docker</li>
+</ul>
 
 <hr>
 
