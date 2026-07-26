@@ -22,7 +22,7 @@
 
 <ul>
   <li>💻 I build practical, scalable SaaS products that solve real-world problems.</li>
-  <li>🚀 My main stack is <strong>Laravel, React, and MySQL</strong>.</li>
+  <li>🚀 My main stack is <strong>Laravel, React, TypeScript, and MySQL</strong>.</li>
   <li>🧩 I care about clean code, maintainable architecture, and useful software.</li>
   <li>
     📝 I share some of my development learnings through my
