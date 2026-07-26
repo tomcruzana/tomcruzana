@@ -23,50 +23,44 @@
 </ul>
 
 <h2>
-  Organizations and Causes I Support
+  Supported Causes
   <img
-    src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif"
-    alt="❤️"
-    width="28"
-    height="28"
+    src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif"
+    alt="🌐"
+    width="32"
+    height="32"
   />
 </h2>
 
-<p>
+<div align="left">
   <a href="https://opensource.org/" target="_blank" rel="noreferrer">
     <img
-      src="./assets/support-open-source.svg"
+      src="https://img.shields.io/badge/Support_Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"
       alt="Support Open Source"
-      height="46"
     />
   </a>
 
   <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
     <img
-      src="./assets/mdn-web-docs.svg"
+      src="https://img.shields.io/badge/MDN_Web_Docs-1A1A1A?style=for-the-badge&logo=mdnwebdocs&logoColor=white"
       alt="MDN Web Docs"
-      height="46"
     />
   </a>
-</p>
 
-<p>
   <a href="https://archive.org/" target="_blank" rel="noreferrer">
     <img
-      src="./assets/internet-archive.svg"
+      src="https://img.shields.io/badge/Internet_Archive-666666?style=for-the-badge&logo=internetarchive&logoColor=white"
       alt="Internet Archive"
-      height="46"
     />
   </a>
 
   <a href="https://okfn.org/" target="_blank" rel="noreferrer">
     <img
-      src="./assets/open-knowledge-foundation.svg"
+      src="https://img.shields.io/badge/Open_Knowledge_Foundation-EA5B0C?style=for-the-badge&logoColor=white"
       alt="Open Knowledge Foundation"
-      height="46"
     />
   </a>
-</p>
+</div>
 
 <h2>
   Tech Stack
