@@ -8,14 +8,6 @@
   />
 </h1>
 
-<p align="center">
-  <img
-    src="./assets/pixel-terminal-tech-banner.png"
-    alt="Tom's pixel-art terminal and technology stack"
-    width="100%"
-  />
-</p>
-
 <p>
   I'm a <strong>Full-Stack Software Engineer</strong> with an M.Sc. in Information Technology.
 </p>
@@ -29,6 +21,52 @@
     <a href="https://dev.to/tommyc">blog posts</a>.
   </li>
 </ul>
+
+<h2>
+  Organizations and Causes I Support
+  <img
+    src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif"
+    alt="❤️"
+    width="28"
+    height="28"
+  />
+</h2>
+
+<p>
+  <a href="https://opensource.org/" target="_blank" rel="noreferrer">
+    <img
+      src="./assets/support-open-source.svg"
+      alt="Support Open Source"
+      height="46"
+    />
+  </a>
+
+  <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
+    <img
+      src="./assets/mdn-web-docs.svg"
+      alt="MDN Web Docs"
+      height="46"
+    />
+  </a>
+</p>
+
+<p>
+  <a href="https://archive.org/" target="_blank" rel="noreferrer">
+    <img
+      src="./assets/internet-archive.svg"
+      alt="Internet Archive"
+      height="46"
+    />
+  </a>
+
+  <a href="https://okfn.org/" target="_blank" rel="noreferrer">
+    <img
+      src="./assets/open-knowledge-foundation.svg"
+      alt="Open Knowledge Foundation"
+      height="46"
+    />
+  </a>
+</p>
 
 <h2>
   Tech Stack
